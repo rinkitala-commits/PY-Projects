@@ -1,1 +1,3 @@
-# Python Projects for begineer
+# Python Projects for beginner
+<br>
+Auther - JHUMARANI TALA
