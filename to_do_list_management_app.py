@@ -102,7 +102,7 @@ def main():
         elif choice == "5":
             delete_task(tasks)
         elif choice == "6":
-            print("Goodbye.")
+            print("Goodbye. Have a nice day!")
             break
         else:
             print("Invalid choice. Please try again.")
